@@ -20,7 +20,7 @@ flowchart LR
 
 | Notebook | Data | Question | Headline |
 |---|---|---|---|
-| [`01_fire_statistics_2562`](notebooks/01_fire_statistics_2562.ipynb) | Fires by province, 2019 (B.E. 2562), Dept. of Disaster Prevention and Mitigation | Which provinces are *really* at risk, and what predicts severity? | 23 provinces are critical; factories are the strongest "multiplier" of damage (r = 0.73) |
+| [`01_fire_statistics_2562`](notebooks/01_fire_statistics_2562.ipynb) | Fires by province, 2019 (B.E. 2562), Dept. of Disaster Prevention and Mitigation | Which provinces are *really* at risk, and what predicts severity? | 23 provinces are critical; factories are the strongest severity predictor not built into the score (r = 0.73) |
 | [`02_university_students_2567_2568`](notebooks/02_university_students_2567_2568.ipynb) | Students in Thai higher education, 2024 and 2025 | Who is growing, who is shrinking, and where? | +5.3% overall, but private universities +21% while some leading public ones shrink |
 | [`03_rainfall_and_flood_risk`](notebooks/03_rainfall_and_flood_risk.ipynb) | Monthly rainfall (HII) and flood-risk areas by tambon | How do rain and recurring flood risk line up? | High-risk tambons peak in Oct to Nov; rain explains little of it (r = 0.20) |
 
