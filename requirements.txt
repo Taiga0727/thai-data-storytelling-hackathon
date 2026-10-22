@@ -1,0 +1,7 @@
+# Libraries imported by the notebooks (written for Google Colab, which already ships most of them)
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+kaleido
